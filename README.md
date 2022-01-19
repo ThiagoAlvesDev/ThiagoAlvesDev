@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋, I'm Thiago
+##
+<div class ="contact">
+    <a href= "https://www.linkedin.com/in/thiago-alves-79a6711b8">
+    <img  height="25em" src="https://img.shields.io/badge/Thiago Alves-0077B5?style=badge&logo=linkedin&logoColor=white"/></a>
+ </div>
+ <br />
+ 
+About me,
 
-<!--
-**ThiagoAlvesDev/ThiagoAlvesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study development of  system wich focus in front-end and back-end, but ever search studying new technologies to help me a be good developer.😁
+#
+- 🌱 I’m currently learning JavaScript and  a litle of Nodejs.<br/>
+- ⚡ Fun fact: No coffee, no code!
 
-Here are some ideas to get you started:
+<br />
+<div class="stats">  
+    <a href="https://beacon.ai/ThiagoAlvesDev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAlvesDev&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" hspace="40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAlvesDev&layout=compact&langs_count=16&theme=dark"/>       
+</div>
+<br />
+<div class= "skills">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white" />
+    <img hspace= "5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=badge&logo=javascript&logoColor=black"/>
+    <img  src="https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=css3&logoColor=white"/>
+    <img hspace="5" src="https://img.shields.io/badge/PHP-777BB4?style=badge&logo=php&logoColor=white"/>
+</div>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
