@@ -8,7 +8,7 @@
  
 About me,
 
-I study development of  system wich focus in front-end and back-end, but ever search studying new technologies to help me a be good developer.😁
+Seeking to improve myself every day, in search of maintaining consistency and balance in the challenges of everyday life.😁
 #
 
 - ⚡ Fun fact: No coffee, no code!
