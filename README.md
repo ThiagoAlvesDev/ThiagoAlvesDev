@@ -8,7 +8,7 @@
  
 About me,
 
-Seeking to improve myself every day, with the aim of maintaining consistency and balance in everyday challenges.😁
+Seeking to improve myself, with the aim of maintaining consistency and balance in everyday challenges.😁
 #
 
 - ⚡ Fun fact: No coffee, no code!
