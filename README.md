@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Thiago
 ##
 <div class ="contact">
-    <a href= "https://www.linkedin.com/in/thiago-alves-79a6711b8">
+    <a href= "https://www.linkedin.com/in/thiago-alves06/">
     <img  height="25em" src="https://img.shields.io/badge/Thiago Alves-0077B5?style=badge&logo=linkedin&logoColor=white"/></a>
  </div>
  <br />
@@ -16,7 +16,7 @@ Seeking to improve myself, with the aim of maintaining consistency and balance i
 <br />
 <div class="stats">  
     <a href="https://beacon.ai/ThiagoAlvesDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAlvesDev&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+    <<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAlvesDev&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" hspace="40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAlvesDev&layout=compact&langs_count=16&theme=dark"/>       
 </div>
 <br />
