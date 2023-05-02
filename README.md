@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Thiago
+### Hello!👋 , I'm Thiago
 ##
 <div class ="contact">
     <a href= "https://www.linkedin.com/in/thiago-alves06/">
