@@ -6,9 +6,7 @@
  </div>
  <br />
  
-About me,
-
-Seeking to improve myself, with the aim of maintaining consistency and balance in everyday challenges.😁
+Atualmente, atuo no universo .NET, adquirindo experiência em VB, mas sem deixar de me aperfeiçoar em C# e explorar novas linguagens. Tenho contato diário com bancos de dados relacionais. Apesar de trabalhar em um sistema legado, busco constantemente evoluir por meio de estudos e projetos pessoais.😁
 #
 
 - ⚡ Fun fact: No coffee, no code!
