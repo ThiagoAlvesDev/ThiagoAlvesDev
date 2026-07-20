@@ -12,11 +12,11 @@ Atualmente, atuo no universo .NET, adquirindo experiência em VB, mas sem deixar
 - ⚡ Fun fact: No coffee, no code!
 
 <br />
-<div class="stats">  
+<!--<div class="stats">  
     <a href="https://beacon.ai/ThiagoAlvesDev">
-    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAlvesDev&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>!-->
+    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAlvesDev&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" hspace="40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAlvesDev&layout=compact&langs_count=16&theme=dark"/>       
-</div>
+</div>!-->
 <br />
 <div class= "skills">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white" />
